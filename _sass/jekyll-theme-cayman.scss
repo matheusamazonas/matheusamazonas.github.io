@@ -376,3 +376,22 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+figure {
+    display: inline-block;
+    margin: 0px;
+}
+
+figure img {
+    vertical-align: top;
+}
+
+figure figcaption {
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+
+.text-justify {
+  text-align: justify;
+}
