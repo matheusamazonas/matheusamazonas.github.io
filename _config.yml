@@ -1,4 +1,6 @@
 title: Matheus Amazonas
 description: Matheus Amazonas' Personal Website
+baseurl: /
+url: https://matheusamazonas.net
 theme: jekyll-theme-cayman
 blog: http://blog.matheusamazonas.net
