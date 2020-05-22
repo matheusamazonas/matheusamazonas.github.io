@@ -1,5 +1,6 @@
 ---
 layout: default
+description: About me
 ---
 
 <div style="text-align: center"><img src="https://sometimesicode.files.wordpress.com/2018/05/1.png" width="572" /></div>
