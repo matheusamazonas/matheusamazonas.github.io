@@ -1,4 +1,5 @@
-# Overclock (2016)
+<details>
+  <summary><h1 style="display:inline">Overclock (2016)</h1></summary>
 
 ![BBUltimate_screenshot3_1136x640.png](assets/images/bbo.png)
 
@@ -18,3 +19,4 @@ As a game developer, I:
 *   Applied performance improvements (Unity Profiler, Xcode, Android Profiler) to port the game to older devices;
 *   Integrated third-party plugins: PlayFab, OneSignal, GameAnalytics and TextMeshPro;
 *   Localized the game, including translating it to Brazilian Portuguese.
+</details>

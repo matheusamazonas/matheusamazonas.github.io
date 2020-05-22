@@ -1,4 +1,5 @@
-# Operação Abaporu (2015)
+<details>
+  <summary><h1 style="display:inline">Operação Abaporu (2015)</h1></summary>
 
 ![facebook_abaporu.png](assets/images/abaporu.png)
 
@@ -18,3 +19,5 @@ As a game developer, I:
 *   Built the game UI (layers, stacks, transitions) using UnityUI;
 *   Developed most of the gameplay;
 *   Reduced the application size and memory usage (using Unity Profiler, Xcode, Android Profiler) in order to ship the game to older devices.
+
+</details>

@@ -417,3 +417,38 @@ figure figcaption {
 .bold {
   font-weight: 900;
 }
+
+details {
+    padding: 10px;
+    margin: 20px 0 0 0; 
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > summary {
+  outline: none;
+}
+
+details > summary:after {
+  content: '+';
+  float: right;
+  text-align: center; 
+  margin: -5px 10px 0 0; 
+  padding: 0; 
+  font-size: 35px;
+  color: #008d52;
+}
+
+details[open] summary:after {
+  content: '–';
+}
+
+details > summary:hover {
+  background-color: #f0f0f0;
+}
+
+details[open]{
+  background-color: #f0f0f0;
+}

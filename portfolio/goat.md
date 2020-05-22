@@ -1,4 +1,5 @@
-# Let it Goat! (2014)
+<details>
+  <summary><h1 style="display:inline">Let it Goat! (2014)</h1></summary>
 
 ![maxresdefault copy.jpg](assets/images/goat.jpg)
 
@@ -19,3 +20,4 @@ I worked on Let it Goat! remotely, from my hometown Aracaju, in Brazil. As a gam
 *   Implemented 2D assets (sprites, animations, parallax) with Toolkit2D;
 *   Assisted the development of the (procedurally generated) level creation engine;
 *   Adapted a version of the game to be launched in China.
+</details>
