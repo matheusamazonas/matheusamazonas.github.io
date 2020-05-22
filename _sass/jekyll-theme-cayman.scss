@@ -354,6 +354,9 @@ a {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 
   @include large {
     font-size: 1rem;
@@ -394,4 +397,9 @@ figure figcaption {
 
 .text-justify {
   text-align: justify;
+}
+
+.footer-image {
+  margin: 5px;
+  vertical-align: middle;
 }

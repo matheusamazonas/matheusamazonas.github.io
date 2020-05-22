@@ -1,6 +1,22 @@
 title: Matheus Amazonas
-description: Game developer 
+description: Game developer
 baseurl: /
 url: https://matheusamazonas.net
 theme: jekyll-theme-cayman
+
+# Author
+author:
+  name: "Matheus Amazonas"
+  email: "matheus.amazonas@gmail.com"
+
+
+# Links
 blog: http://blog.matheusamazonas.net
+
+# Social Networks
+social-links:
+  email: "matheus.amazonas@gmail.com"
+  github: "https://github.com/matheusamazonas"
+  linkedin: "https://www.linkedin.com/in/matheusamazonas/"
+  facebook: "https://www.facebook.com/matheus.amazonas.9"
+  youtube: "https://www.youtube.com/user/matheuzamazonas/videos"
