@@ -11,16 +11,21 @@ author:
   email: matheus.amazonas@gmail.com
 
 
-# Links
-blog: http://blog.matheusamazonas.net
 
 # Social Networks
 social-links:
-  email: matheus.amazonas@gmail.com
-  github: https://github.com/matheusamazonas
-  linkedin: https://www.linkedin.com/in/matheusamazonas/
-  facebook: https://www.facebook.com/matheus.amazonas.9
-  youtube: https://www.youtube.com/user/matheuzamazonas/videos
+- id: email
+  link: 'mailto:matheus.amazonas@gmail.com'
+- id: github
+  link: https://github.com/matheusamazonas
+- id: wordpress
+  link: http://blog.matheusamazonas.net
+- id: linkedin
+  link: https://www.linkedin.com/in/matheusamazonas/
+- id: facebook
+  link: https://www.facebook.com/matheus.amazonas.9
+- id: youtube
+  link: https://www.youtube.com/user/matheuzamazonas/videos
 
 navigation:
 - text: Home
