@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About me
 description: About me
 ---
 
@@ -27,7 +28,6 @@ I'm into water sports in general. I consider myself a [kitesurfer](https://www.y
 I also enjoy photography, playing the guitar and enjoying [good beer](https://untappd.com/user/matheuz) with friends. I speak Portuguese natively, English fluently and I'm currently learning Dutch and French.
 {: .text-justify}
 
-And that's pretty much it. Feel free me to contact me through [email](mailto:matheus.amazonas@gmail.com), [LinkedIn](https://www.linkedin.com/in/matheusamazonas/){:target="_blank"}, [GitHub](https://github.com/matheusamazonas){:target="_blank"} or [Facebook](https://www.facebook.com/matheus.amazonas.9){:target="_blank"}. Tot ziens!
+And that's pretty much it. Feel free me to contact me through [email](mailto:matheus.amazonas@gmail.com), [LinkedIn](https://www.linkedin.com/in/matheusamazonas/){:target="_blank"}, [GitHub](https://github.com/matheusamazonas){:target="_blank"} or [Facebook](https://www.facebook.com/matheus.amazonas.9){:target="_blank"}. Tot ziens!<span style="color:#ffffff;">Shot out to my bro Edman for the about me section.</span>
 {: .text-justify}
 
-<span style="color:#ffffff;">Shot out to my bro Edman for the about me section.</span>
