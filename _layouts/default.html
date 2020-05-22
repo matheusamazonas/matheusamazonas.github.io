@@ -13,24 +13,29 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      <a href="{{ site.url }}" class="btn">Home</a>
-      <a href="./about.html" class="btn">About</a>
-      <a href="{{ site.blog }}" class="btn" target="_blank">Blog</a>
-      <a href="./portfolio.html" class="btn">Portfolio</a>
+      <a href="mailto:{{ site.social-links.email }}"> <img src="assets/images/footer/email.png" width="21px" class="top-social-image"> </a>
+      <a href="{{ site.social-links.linkedin }}" target="blank"> <img src="assets/images/footer/linkedin.png" width="20px" class="top-social-image"> </a>
+      <a href="{{ site.social-links.github }}" target="blank"> <img src="assets/images/footer/github.png" width="21px" class="top-social-image"> </a>
+      <a href="{{ site.social-links.facebook }}" target="blank"> <img src="assets/images/footer/facebook.png" width="20px" class="top-social-image"> </a>
+      <a href="{{ site.social-links.youtube }}" target="blank"> <img src="assets/images/footer/youtube.png" width="24px" class="top-social-image"> </a>
+      <p></p><br>
+      <div class="menu">
+        <a href="{{ site.url }}" class="btn">Home</a>
+        <a href="./about.html" class="btn">About</a>
+        <a href="{{ site.blog }}" class="btn" target="_blank">Blog</a>
+        <a href="./portfolio.html" class="btn">Portfolio</a>
+      </div>
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
 
       <footer class="site-footer">
-        <a href="mailto:{{ site.social-links.email }}"> <img src="assets/images/footer/email.png" width="21px" class="footer-image"> </a>
-        <a href="{{ site.social-links.linkedin }}" target="blank"> <img src="assets/images/footer/linkedin.png" width="20px" class="footer-image"> </a>
-        <a href="{{ site.social-links.github }}" target="blank"> <img src="assets/images/footer/github.png" width="21px" class="footer-image"> </a>
-        <a href="{{ site.social-links.facebook }}" target="blank"> <img src="assets/images/footer/facebook.png" width="20px" class="footer-image"> </a>
-        <a href="{{ site.social-links.youtube }}" target="blank"> <img src="assets/images/footer/youtube.png" width="24px" class="footer-image"> </a>
+        <a href="mailto:{{ site.social-links.email }}"> <img src="assets/images/footer/email.png" width="21px" class="social-image"> </a>
+        <a href="{{ site.social-links.linkedin }}" target="blank"> <img src="assets/images/footer/linkedin.png" width="20px" class="social-image"> </a>
+        <a href="{{ site.social-links.github }}" target="blank"> <img src="assets/images/footer/github.png" width="21px" class="social-image"> </a>
+        <a href="{{ site.social-links.facebook }}" target="blank"> <img src="assets/images/footer/facebook.png" width="20px" class="social-image"> </a>
+        <a href="{{ site.social-links.youtube }}" target="blank"> <img src="assets/images/footer/youtube.png" width="24px" class="social-image"> </a>
       </footer>
     </main>
   </body>

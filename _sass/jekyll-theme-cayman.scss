@@ -112,7 +112,7 @@ a {
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
-    padding: 2rem 6rem;
+    padding: 1rem 6rem;
   }
 
   @include medium {
@@ -142,7 +142,7 @@ a {
 }
 
 .project-tagline {
-  margin-bottom: 2rem;
+  margin-bottom: -0.4rem;
   font-weight: normal;
   opacity: 0.7;
 
@@ -399,7 +399,17 @@ figure figcaption {
   text-align: justify;
 }
 
-.footer-image {
+.social-image {
   margin: 5px;
   vertical-align: middle;
 }
+
+.top-social-image { 
+  margin: 5px;
+  vertical-align: middle;
+  filter: invert(100%) opacity(80%); 
+}
+
+.menu {
+  margin-top: 0.2rem;
+} 
