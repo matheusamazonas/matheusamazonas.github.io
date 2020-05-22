@@ -1,3 +1,4 @@
+{::options parse_block_html="true" /}
 <details>
   <summary><h1 style="display:inline">Operação Abaporu (2015)</h1></summary>
 

@@ -1,3 +1,4 @@
+{::options parse_block_html="true" /}
 <details>
   <summary><h1 style="display:inline">Voedingscentrum VR (2019)</h1></summary>
 ![](assets/images/vc.png)

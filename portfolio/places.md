@@ -1,3 +1,4 @@
+{::options parse_block_html="true" /}
 <details>
   <summary><h1 style="display:inline">SkyVu Places VR Beta (2017)</h1></summary>
 

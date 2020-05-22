@@ -3,7 +3,7 @@ layout: default
 title: About me
 description: About me
 ---
-{::options parse_block_html="false" /}
+
 <div style="text-align: center"><img src="https://sometimesicode.files.wordpress.com/2018/05/1.png" width="572" /></div>
 
 Hi there! My name is Matheus Amazonas (Cabral de Andrade), a Brazilian computer scientist and game developer.
