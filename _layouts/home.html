@@ -1,17 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <a name="top"><a>
   {% include head.html %}
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     {% include header.html %}
     <main id="content" class="main-content" role="main">
       {{ content }}
-      <a href="#top">Back to top &#8593;</a>
       <footer class="site-footer">
-        {% for item in site.social-links %}
-          <a href="{{ item.link }}" target="blank"> <img src="assets/images/footer/{{item.id}}.png" width="21px" class="social-image"> </a>
-        {% endfor %}
       </footer>
     </main>
   </body>
