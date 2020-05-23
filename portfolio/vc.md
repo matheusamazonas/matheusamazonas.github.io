@@ -1,7 +1,7 @@
 {::options parse_block_html="true" /}
 <details>
   <summary><h1 style="display:inline">Voedingscentrum VR (2019)</h1></summary>
-![](assets/images/vc.png)
+![](assets/images/portfolio/vc.png)
 
 The project: A VR experience that playfully teaches children how to develop healthy eating habits develped by [Fantazm](https://www.fantazm.com){:target="_blank"}.
 {: .text-justify}

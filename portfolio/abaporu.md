@@ -2,7 +2,7 @@
 <details>
   <summary><h1 style="display:inline">Operação Abaporu (2015)</h1></summary>
 
-![facebook_abaporu.png](assets/images/abaporu.png)
+![facebook_abaporu.png](assets/images/portfolio/abaporu.png)
 
 Operação Abaporu is a mobile investigation game developed by the Brazilian company [Lumen Games](http://lumentech.cc){:target="_blank"}. The game was part of a project created by the Brazilian government.
 {: .text-justify}

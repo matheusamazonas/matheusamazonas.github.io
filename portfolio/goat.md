@@ -2,7 +2,7 @@
 <details>
   <summary><h1 style="display:inline">Let it Goat! (2014)</h1></summary>
 
-![maxresdefault copy.jpg](assets/images/goat.jpg)
+![maxresdefault copy.jpg](assets/images/portfolio/goat.jpg)
 
 The game: Let it Goat! (named after a famous meme) is an infinite runner developed by [SkyVu Entertainment](http://www.skyvu.net){:target="_blank"}'s SkyLab as a side project to the Battle Bears games.  The game was released on iOS and Android. The original version of the game isn't available to download any longer.
 {: .text-justify}

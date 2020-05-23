@@ -2,7 +2,7 @@
 <details>
   <summary><h1 style="display:inline">Corpus VR</h1></summary>
 
-  ![](assets/images/corpus.png)
+  ![](assets/images/portfolio/corpus.png)
 
   The project: Corpus VR brings virtual reality to physio- and neurotherapy. It is a platform that engages patients on gamefied reabilitation exercises and provides the therapist with accurate data about the treatment's progress.  
 
