@@ -4,6 +4,9 @@ title: Contact
 description: Contact
 ---
 
+You can either [send me an email](mailto:{{ site.author.email }}) or use the form below to contact me. Additionally, you can check my social media profiles using the badges on the menu above.
+{: .text-justify}
+
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSd0lJ-zLQWgloEF2uprhcq3wyC_VAZdcUOnKPZIjtL5GL8WaQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
     <input type="text" name="entry.1618971472" id="entry.1618971472" placeholder="Your name" class="contact-input" required>
   <br>
