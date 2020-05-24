@@ -39,5 +39,8 @@ navigation:
 - text: Blog
   url: http://blog.matheusamazonas.net
   external: true
+- text: Contact
+  url: /contact.html
+  external: false
 
 portfolio: /portfolio.html
