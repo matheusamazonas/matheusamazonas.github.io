@@ -1,7 +1,7 @@
 ---
 layout: contact
 title: Contact
-description: Contact
+tagline: Contact
 ---
 
 You can either [send me an email](mailto:{{ site.author.email }}) or use the form below to contact me. Additionally, you can check my social media profiles using the badges on the menu above.

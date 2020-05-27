@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About me
-description: About me
+tagline: About me
 ---
 
 Here is my short bio. If you are looking for my resume/CV, you can download it [here](assets/Matheus_Amazonas_Resume.pdf){:target="_blank"}.
