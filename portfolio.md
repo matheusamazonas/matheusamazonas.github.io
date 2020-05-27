@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Portfolio
-description: Portfolio
+tagline: Portfolio
 ---
 
 {% include_relative portfolio/corpus.md %}

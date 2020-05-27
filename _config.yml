@@ -1,7 +1,8 @@
 title: Matheus Amazonas
-description: Game developer
+tagline: Matheus Amazonas - Game Developer
+description: Video game developer with 3 years of experience on Dutch, American and Brazilian markets.
 baseurl: /
-url: https://matheusamazonas.net
+url: matheusamazonas.net
 theme: jekyll-theme-cayman
 homepage: /index.html
 

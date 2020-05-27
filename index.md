@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+tagline: Game Developer
 ---
 
 ![](assets/images/profile.png){:height="200px" class="container__image"}
