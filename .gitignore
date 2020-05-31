@@ -5,5 +5,4 @@ _site
 .jekyll-cache
 
 # Ruby
-Gemfile*
-*.gemspec
+Gemfile.lock
