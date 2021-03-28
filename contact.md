@@ -1,5 +1,5 @@
 ---
-layout: no_navigation
+layout: no-navigation
 title: Contact
 tagline: Contact
 ---
