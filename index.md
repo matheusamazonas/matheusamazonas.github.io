@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: no_navigation
 title: Home
 tagline: Game Developer
 ---
