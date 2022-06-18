@@ -7,7 +7,9 @@ tagline: About me
 Here is my short bio. If you are looking for my resume/CV, you can download it [here](assets/Matheus_Amazonas_Resume.pdf){:target="_blank"}.
 {: .text-justify}
 
-<div style="text-align: center"><img src="assets/images/about/profile.jpg" width="572" height="286" alt="Two pictures of Matheus, side by side."/></div>
+<div style="text-align: center">
+	{% include image.html url="assets/images/about/profile.jpg" width="572" height="286" alt="Two pictures of Matheus, side by side. %}
+</div>
 
 Hi there! My name is Matheus Amazonas (Cabral de Andrade), a Brazilian computer scientist and game developer.
 {: .text-justify}
