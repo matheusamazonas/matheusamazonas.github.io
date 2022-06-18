@@ -4,7 +4,7 @@ title: About me
 tagline: About me
 ---
 
-Here is my short bio. If you are looking for my resume/CV, you can download it [here](assets/Matheus_Amazonas_Resume.pdf){:target="_blank"}.
+Here is my short bio. If you are looking for my resume/CV, you can [download it here](assets/Matheus_Amazonas_Resume.pdf){:target="_blank"}.
 {: .text-justify}
 
 <div style="text-align: center">
@@ -14,7 +14,7 @@ Here is my short bio. If you are looking for my resume/CV, you can download it [
 Hi there! My name is Matheus Amazonas (Cabral de Andrade), a Brazilian computer scientist and game developer.
 {: .text-justify}
 
-I started studying Computer Science in my home state university, [Universidade Federal de Sergipe](http://www.ufs.br){:target="_blank"}, where I received my Bachelor of Science. During my bachelor's, I spent one year abroad as part of an exchange program at [University of Nebraska at Omaha](https://www.unomaha.edu){:target="_blank"}, USA. There, I had contact with game development for the first time and I fell in love instantly. During the summer, I interned at the local (literally across the street from my dorm) game company [SkyVu](http://www.skyvu.net){:target="_blank"}. After going back home and graduating, I worked as a game developer ([SkyVu](http://www.skyvu.net){:target="_blank"}, [Lumentech](http://lumentech.cc){:target="_blank"}) until I decided to pursue my master's. You can check out the projects I've worked on [here]({{ site.portfolio }}){:target="_blank"}.
+I started studying Computer Science in my home state university, [Universidade Federal de Sergipe](http://www.ufs.br){:target="_blank"}, where I received my Bachelor of Science. During my bachelor's, I spent one year abroad as part of an exchange program at [University of Nebraska at Omaha](https://www.unomaha.edu){:target="_blank"}, USA. There, I had contact with game development for the first time and I fell in love instantly. During the summer, I interned at the local (literally across the street from my dorm) game company [SkyVu](http://www.skyvu.net){:target="_blank"}. After going back home and graduating, I worked as a game developer ([SkyVu](http://www.skyvu.net){:target="_blank"}, [Lumentech](http://lumentech.cc){:target="_blank"}) until I decided to pursue my master's. You can check out the projects I've worked on [my portfolio]({{ site.portfolio }}){:target="_blank"}.
 {: .text-justify}
 
 {% include image.html class="wide" url="assets/images/about/uno.jpg" width="832" height="468" description="The UNO North Campus" caption="true"%}
