@@ -6,6 +6,8 @@ baseurl: /
 url: matheusamazonas.net
 theme: jekyll-theme-cayman
 homepage: /index.html
+sass:
+  style: compressed
 
 # Author
 author:
