@@ -25,7 +25,7 @@ I pursued my Master's in Computing Science ([Software Science](https://www.ru.
 I'm into water sports in general. I consider myself a [kitesurfer](https://www.youtube.com/watch?v=iUq0HcQ-RbU){:target="_blank"}, even though practicing it in the Netherlands is challenging. As an alternative, I've learnt how to windsurf at the local student association. I've also done a scuba diving course (PADI), rowing, [kayaking](https://www.youtube.com/watch?v=FfiWOTu3Ajc&t=112s){:target="_blank"} and stand up paddling. You can see I like water. Besides water sports, I enjoy nature and being outside in general, specially when the weather is good, something rare in the Netherlands.
 {: .text-justify}
 
-{% include image.html url="assets/images/about/sports.png" description="Water sports are my thing too" %}
+{% include image.html url="assets/images/about/sports.jpg" description="Water sports are my thing too" %}
 
 I also enjoy photography, playing the guitar and enjoying [good beer](https://untappd.com/user/matheuz) with friends. I speak Portuguese natively, English fluently and I'm currently learning Dutch and French.
 {: .text-justify}
