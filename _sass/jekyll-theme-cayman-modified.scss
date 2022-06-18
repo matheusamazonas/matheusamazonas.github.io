@@ -468,3 +468,24 @@ details[open]{
     display: inline;
   }
 }
+
+img.wide {
+  width: 100%;
+  height: auto;
+}
+
+img.profile-about {
+  max-width: 572px;
+  width: 100%;
+  height: auto;
+}
+
+img.profile-home {
+  max-width: 325px;
+  width: 20%;
+  height: auto;
+  float: left;
+  margin: 30px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+}
