@@ -1,3 +1,4 @@
 <figure class="image">
-	<img src="{{ include.url }}" width="{{ include.width }}" height="{{ include.height }}" alt="{{ include.description }}"><figcaption>{{ include.description }}</figcaption>
+	<img src="{{ include.url }}" width="{{ include.width }}" height="{{ include.height }}" alt="{% if include.alt %}{{ include.alt }}{% else %}{{ include.description }}{% endif %}"
+	><figcaption>{{ include.description }}</figcaption>
 </figure>
