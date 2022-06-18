@@ -17,16 +17,22 @@ author:
 social-links:
 - id: email
   link: 'mailto:matheus.amazonas@gmail.com'
+  alt: 'Email Matheus'
 - id: github
   link: https://github.com/matheusamazonas
+  alt: "Matheus' GitHub"
 - id: wordpress
   link: http://blog.matheusamazonas.net
+  alt: "Matheus' blog"
 - id: linkedin
   link: https://www.linkedin.com/in/matheusamazonas/
+  alt: "Matheus' LinkedIn"
 - id: facebook
   link: https://www.facebook.com/matheus.amazonas.9
+  alt: "Matheus' Facebook"
 - id: youtube
   link: https://www.youtube.com/user/matheuzamazonas/videos
+  alt: "Matheus' YouTube"
 
 navigation:
 - text: Home

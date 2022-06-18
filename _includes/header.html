@@ -3,7 +3,7 @@
   <h2 class="project-tagline">{{ page.tagline | default: site.github.project_tagline }}</h2>
   <div class="top-social-images">
   {% for item in site.social-links %}
-  <a href="{{ item.link }}" target="blank"> <img src="assets/images/footer/{{item.id}}.png" width="21px" class="top-social-image"> </a>
+  <a href="{{ item.link }}" target="blank"> <img src="assets/images/footer/{{item.id}}.png" alt="{{ item.alt }}" width="21px" height="21px" class="top-social-image"> </a>
   {% endfor %}
   </div>
   <div class="menu">
