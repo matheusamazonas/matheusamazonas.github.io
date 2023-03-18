@@ -4,7 +4,7 @@
 
 ![](assets/images/portfolio/places.png)
 
-The project: [SkyVu Places Beta](http://www.skyvu.net/places){:target="_blank"} was a beta for a social VR world builder from [SkyVu Entertainment](http://www.skyvu.net){:target="_blank"}.
+The project: [SkyVu Places Beta](http://www.skyvu.net/places){:target="_blank"} was a beta for a social VR world builder from [SkyVu Entertainment](http://www.skyvu.net){:target="_blank"}.
 {: .text-justify}
 
 Role: Game Developer  
@@ -13,6 +13,6 @@ Team size: 5
 Platform: Google Draydream and GearVR  
 Engine/Language: Unity/C#  
 
-In this project, I developed early prototypes in GearVR, on initial stages of development. This was a great learning experience both for me and the development team, given that it was our first time developing a VR experience. We had to build the prototype from the ground up, given that at the time Unity3D didn't have a rich VR community and marketplace.
+In this project, I developed early prototypes in GearVR, on initial stages of development. This was a great learning experience both for me and the development team, given that it was our first time developing a VR experience. We had to build the prototype from the ground up, given that at the time Unity didn't have a rich VR community and marketplace.
 {: .text-justify}
 </details>

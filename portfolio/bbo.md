@@ -4,7 +4,7 @@
 
 ![BBUltimate_screenshot3_1136x640.png](assets/images/portfolio/bbo.png)
 
-The game: Overclock (formally Battle Bears Overclock) is a mobile multiplayer first person shooter game developed by [SkyVu Entertainment](http://www.skyvu.net){:target="_blank"} and is part of the successful Battle Bears mobile franchise, which games have been downloaded more than 30 million times in total.
+The game: Overclock (formally Battle Bears Overclock) is a mobile multiplayer first person shooter game developed by [SkyVu Entertainment](http://www.skyvu.net){:target="_blank"} and is part of the successful Battle Bears mobile franchise, which games have been downloaded more than 30 million times in total.
 {: .text-justify}
 
 Role: Game Developer  
