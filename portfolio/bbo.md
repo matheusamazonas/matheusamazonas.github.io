@@ -12,7 +12,6 @@ Duration: 1 year
 Team size: 6~11, Scrum team  
 Platform: [Android](https://play.google.com/store/apps/details?id=net.skyvu.battlebearsultimate){:target="_blank"} and [iOS](https://itunes.apple.com/us/app/battle-bears-gold/id625394271?mt=8){:target="_blank"}  
 Engine/Language: Unity/C#, JS for server side code  
-Website: [Battle Bears Overclock](https://www.skyvu.net/games){:target="_blank"} from SkyVu's portfolio page.
 
 As a game developer, I:
 
