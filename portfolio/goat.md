@@ -4,15 +4,15 @@
 
 ![maxresdefault copy.jpg](assets/images/portfolio/goat.jpg)
 
-The game: Let it Goat! (named after a famous meme) is an infinite runner developed by [SkyVu Entertainment](http://www.skyvu.net){:target="_blank"}'s SkyLab as a side project to the Battle Bears games. The game was released on iOS and Android. The original version of the game isn't available to download any longer.
+The game: Let it Goat! (named after a famous meme) is an infinite runner developed by [SkyVu Entertainment](http://www.skyvu.net)'s SkyLab as a side project to the Battle Bears games. The game was released on iOS and Android. The original version of the game isn't available to download any longer.
 {: .text-justify}
 
 Role: Game Developer (remote)  
 Duration: 6 months  
 Team size: 6, Scrum team  
-Platform: [Android](https://play.google.com/store/apps/details?id=net.skyvu.letitgoat1){:target="_blank"} and [iOS](http://goo.gl/mUtQBL){:target="_blank"}  
+Platform: [Android](https://play.google.com/store/apps/details?id=net.skyvu.letitgoat1) and [iOS](http://goo.gl/mUtQBL)  
 Engine/Language: Unity/C#  
-Website: [Let it Goat!](https://www.skyvu.net/games){:target="_blank"} from SkyVu's portfolio page. Scroll down to find Let it Goat!
+Website: [Let it Goat!](https://www.skyvu.net/games) from SkyVu's portfolio page. Scroll down to find Let it Goat!
 
 I worked on Let it Goat! remotely, from my hometown Aracaju, in Brazil. As a game developer, I:
 

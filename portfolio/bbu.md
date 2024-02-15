@@ -4,7 +4,7 @@
 
 ![maxresdefault.jpg](assets/images/portfolio/bbu.jpg)
 
-The game: Battle Bears Ultimate (BBU) was a online multiplayer first person shooter released by the American company [SkyVu Entertainment](http://www.skyvu.net){:target="_blank"} (Omaha, Nebraska) in 2013\. The mobile game was available on iOS and Android and was part of the successful Battle Bears mobile franchise, which games have been downloaded more than 30 million times in total.
+The game: Battle Bears Ultimate (BBU) was a online multiplayer first person shooter released by the American company [SkyVu Entertainment](http://www.skyvu.net) (Omaha, Nebraska) in 2013\. The mobile game was available on iOS and Android and was part of the successful Battle Bears mobile franchise, which games have been downloaded more than 30 million times in total.
 {: .text-justify}
 
 Role: Development  

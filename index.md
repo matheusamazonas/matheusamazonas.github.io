@@ -9,5 +9,5 @@ tagline: Game Developer
 Nowadays, I apply my knowledge on software development and my gamer background to create fun, robust and performant video games and VR experiences.
 {: .text-justify}
 
-You can learn more [about me](about.html), check the projects I've worked on [portfolio](portfolio.html), read some things I've wrote on my [blog](http://blog.matheusamazonas.net){:target="_blank"} or take a look at my [resume/CV](assets/Matheus_Amazonas_Resume.pdf){:target="_blank"}. 
+You can learn more [about me](about.html), check the projects I've worked on [portfolio](portfolio.html), read some things I've wrote on my [blog](http://blog.matheusamazonas.net) or take a look at my [resume/CV](assets/Matheus_Amazonas_Resume.pdf). 
 {: .text-justify}
