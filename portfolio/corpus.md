@@ -11,5 +11,5 @@
   Team size: 6  
   Platform: PicoVR and Cardboard for the headset. Android and iOS for the dashboard.  
   Engine/Language: Unity/C#  
-  Website: [Corpus VR](https://www.corpusvr.com){:target="_blank"}
+  Website: [Corpus VR](https://www.corpusvr.com)
 </details>

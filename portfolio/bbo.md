@@ -4,13 +4,13 @@
 
 ![BBUltimate_screenshot3_1136x640.png](assets/images/portfolio/bbo.png)
 
-The game: Overclock (formally Battle Bears Overclock) is a mobile multiplayer first person shooter game developed by [SkyVu Entertainment](http://www.skyvu.net){:target="_blank"} and is part of the successful Battle Bears mobile franchise, which games have been downloaded more than 30 million times in total.
+The game: Overclock (formally Battle Bears Overclock) is a mobile multiplayer first person shooter game developed by [SkyVu Entertainment](http://www.skyvu.net) and is part of the successful Battle Bears mobile franchise, which games have been downloaded more than 30 million times in total.
 {: .text-justify}
 
 Role: Game Developer  
 Duration: 1 year  
 Team size: 6~11, Scrum team  
-Platform: [Android](https://play.google.com/store/apps/details?id=net.skyvu.battlebearsultimate){:target="_blank"} and [iOS](https://itunes.apple.com/us/app/battle-bears-gold/id625394271?mt=8){:target="_blank"}  
+Platform: [Android](https://play.google.com/store/apps/details?id=net.skyvu.battlebearsultimate) and [iOS](https://itunes.apple.com/us/app/battle-bears-gold/id625394271?mt=8)  
 Engine/Language: Unity/C#, JS for server side code  
 
 As a game developer, I:

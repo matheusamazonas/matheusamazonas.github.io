@@ -4,7 +4,7 @@
 
 ![](assets/images/portfolio/places.png)
 
-The project: [SkyVu Places Beta](http://www.skyvu.net/places){:target="_blank"} was a beta for a social VR world builder from [SkyVu Entertainment](http://www.skyvu.net){:target="_blank"}.
+The project: [SkyVu Places Beta](http://www.skyvu.net/places) was a beta for a social VR world builder from [SkyVu Entertainment](http://www.skyvu.net).
 {: .text-justify}
 
 Role: Game Developer  
