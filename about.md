@@ -14,7 +14,7 @@ Here is my short bio. If you are looking for my resume/CV, you can [download it 
 Hi there! My name is Matheus Amazonas (Cabral de Andrade), a Brazilian computer scientist and game developer.
 {: .text-justify}
 
-I started studying Computer Science in my home state university, [Universidade Federal de Sergipe](http://www.ufs.br), where I received my Bachelor of Science. During my bachelor's, I spent one year abroad as part of an exchange program at [University of Nebraska at Omaha](https://www.unomaha.edu), USA. There, I had contact with game development for the first time and I instantly fell in love with it. During that year's summer, I interned at the local (literally across the street from my dorm) game company [SkyVu](http://www.skyvu.net). After going back home and graduating, I worked as a game developer ([SkyVu](http://www.skyvu.net), [Lumentech](http://lumentech.cc)) until I decided to pursue my master's. You can check out the projects I've worked on [my portfolio]({{ site.portfolio }}).
+I started studying Computer Science in my home state university, [Universidade Federal de Sergipe](http://www.ufs.br), where I received my Bachelor of Science. During my bachelor's, I spent one year abroad as part of an exchange program at [University of Nebraska at Omaha](https://www.unomaha.edu), USA. There, I had contact with game development for the first time and I instantly fell in love with it. During that year's summer, I interned at the local (literally across the street from my dorm) game company [SkyVu](http://www.skyvu.net). After going back home and graduating, I worked as a game developer ([SkyVu](http://www.skyvu.net), [Lumen Games](https://lumen.games)) until I decided to pursue my master's. You can check out the projects I've worked on [my portfolio]({{ site.portfolio }}).
 {: .text-justify}
 
 {% include image.html class="wide" url="assets/images/about/uno.jpg" width="832" height="468" description="The UNO North Campus" caption="true"%}
@@ -29,7 +29,7 @@ After years in the Netherlands, I moved to Lyon, France. From there, I still wor
 
 {% include image.html class="wide" url="assets/images/about/lyon.jpg" width="832" height="637" description="The beautiful city of Lyon" caption="true" %}
 
-I'm into water sports in general. I consider myself a [kitesurfer](https://www.youtube.com/watch?v=iUq0HcQ-RbU), even though practicing it in the the last years has been challenging. As an alternative, I've learnt how to windsurf when I was a masters student in Nijmegen. I've also done a scuba diving course (PADI), rowing, [kayaking](https://www.youtube.com/watch?v=FfiWOTu3Ajc&t=112s) and stand up paddling. You can see I like water. Besides water sports, I enjoy nature and being outside in general, specially when the weather is good.
+I'm into water sports in general. I consider myself a [kitesurfer](https://www.youtube.com/watch?v=iUq0HcQ-RbU), even though practicing it in the the last years has been challenging. As an alternative, I've learnt how to windsurf when I was a masters student in Nijmegen. I've also done a scuba diving course (PADI), rowing, [kayaking](https://www.youtube.com/watch?v=FfiWOTu3Ajc) and stand up paddling. You can see I like water. Besides water sports, I enjoy nature and being outside in general, specially when the weather is good.
 {: .text-justify}
 
 {% include image.html class="wide" url="assets/images/about/sports.jpg" width="835" height="167" description="Water sports are my thing too" caption="true" %}
