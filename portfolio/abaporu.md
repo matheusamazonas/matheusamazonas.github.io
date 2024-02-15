@@ -10,7 +10,7 @@ Operação Abaporu is a mobile investigation game developed by the Brazilian com
 Role: Game Developer  
 Duration: 5 months  
 Team size: 6  
-Platform: [Android](https://play.google.com/store/apps/details?id=cc.lumentech.operacaoabaporu) and [iOS](https://itunes.apple.com/us/app/operação-abaporu/id989934212?mt=8)  
+Platform: [Android](https://play.google.com/store/apps/details?id=cc.lumentech.operacaoabaporu) and [iOS](https://itunes.apple.com/us/app/operacao-abaporu/id989934212?mt=8)  
 Engine/Language: Unity/C#  
 Website: [Operação Abaporu](https://lumen.games/portfolio-item/operation-abaporu/)
 
