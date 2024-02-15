@@ -15,8 +15,8 @@ Engine/Language: Unity/C#, JS for server side code
 
 As a game developer, I:
 
-*   Focused on gameplay programming using Photon Networking and backend programming using JavaScript with PlayFab;
-*   Applied performance improvements (Unity Profiler, Xcode, Android Profiler) to port the game to older devices;
-*   Integrated third-party plugins: PlayFab, OneSignal, GameAnalytics and TextMeshPro;
+*   Focused on gameplay programming using Photon Networking and backend programming using JavaScript with PlayFab.
+*   Applied performance improvements (Unity Profiler, Xcode, Android Profiler) to port the game to older devices.
+*   Integrated third-party plugins: PlayFab, OneSignal, GameAnalytics and TextMeshPro.
 *   Localized the game, including translating it to Brazilian Portuguese.
 </details>

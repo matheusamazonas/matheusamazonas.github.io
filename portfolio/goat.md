@@ -16,9 +16,9 @@ Website: [Let it Goat!](https://www.skyvu.net/games) from SkyVu's portfolio page
 
 I worked on Let it Goat! remotely, from my hometown Aracaju, in Brazil. As a game developer, I:
 
-*   Developed a multiplayer mode with a leaderboard system in which you could challenge other players;
-*   Helped to build the game UI with NGUI (the standard at the time);
-*   Implemented 2D assets (sprites, animations, parallax) with Toolkit2D;
-*   Assisted the development of the (procedurally generated) level creation engine;
+*   Developed a multiplayer mode with a leaderboard system in which you could challenge other players.
+*   Helped to build the game UI with NGUI (the standard at the time).
+*   Implemented 2D assets (sprites, animations, parallax) with Toolkit2D.
+*   Assisted the development of the (procedurally generated) level creation engine.
 *   Adapted a version of the game to be launched in China.
 </details>

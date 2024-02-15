@@ -16,9 +16,9 @@ Website: [Operação Abaporu](https://lumen.games/portfolio-item/operation-abapo
 
 As a game developer, I:
 
-*   Extended the Unity engine to create a game database using Scriptable Objects and a UI to edit it;
-*   Built the game UI (layers, stacks, transitions) using UnityUI;
-*   Developed most of the gameplay;
+*   Extended the Unity engine to create a game database using Scriptable Objects and a UI to edit it.
+*   Built the game UI (layers, stacks, transitions) using UnityUI.
+*   Developed most of the gameplay.
 *   Reduced the application size and memory usage (using Unity Profiler, Xcode, Android Profiler) in order to ship the game to older devices.
 
 </details>
