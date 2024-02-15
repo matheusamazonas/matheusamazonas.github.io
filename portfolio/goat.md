@@ -10,9 +10,8 @@ The game: Let it Goat! (named after a famous meme) is an infinite runner develop
 Role: Game Developer (remote)  
 Duration: 6 months  
 Team size: 6, Scrum team  
-Platform: [Android](https://play.google.com/store/apps/details?id=net.skyvu.letitgoat1) and [iOS](http://goo.gl/mUtQBL)  
+Platform: Android and iOS  
 Engine/Language: Unity/C#  
-Website: [Let it Goat!](https://www.skyvu.net/games) from SkyVu's portfolio page. Scroll down to find Let it Goat!
 
 I worked on Let it Goat! remotely, from my hometown Aracaju, in Brazil. As a game developer, I:
 

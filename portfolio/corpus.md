@@ -9,7 +9,7 @@
   Role: Game Developer  
   Duration: The product is on the market, but it's under continous development. I started working on it on February 2019.  
   Team size: 6  
-  Platform: PicoVR and Cardboard for the headset. Android and iOS for the dashboard.  
+  Platform: PicoVR and Meta Quest for the headset. Android and iOS for the dashboard.  
   Engine/Language: Unity/C#  
   Website: [Corpus VR](https://www.corpusvr.com)
 </details>
