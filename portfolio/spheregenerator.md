@@ -8,7 +8,7 @@ Sphere Generator is a free Unity package/plugin that generates spheres (UV, cube
 
 Sphere Generator is distributed under the terms of the MIT [license](https://github.com/matheusamazonas/sphere_generator/blob/main/LICENSE).
 
-Role: Game Developer
+Role: Game Developer  
 Team size: 1  
 Platform: Unity tool  
 Engine/Language: Unity/C#  

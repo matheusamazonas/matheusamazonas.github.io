@@ -8,7 +8,7 @@ Min/max Range Attribute is a bounded (i.e., with a minimum and maximum) range at
 
 Min/max Range Attribute is distributed under the terms of the MIT [license](https://github.com/matheusamazonas/min_max_range_attribute/blob/main/LICENSE).
 
-Role: Game Developer
+Role: Game Developer  
 Team size: 1  
 Platform: Unity tool  
 Engine/Language: Unity/C#  
