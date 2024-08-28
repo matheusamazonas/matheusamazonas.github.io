@@ -12,6 +12,6 @@ Role: Game Developer
 Team size: 1  
 Platform: Unity tool
 Engine/Language: Unity/C#  
-Package: [Min/max Range Attribute on OpenUPM](https://openupm.com/packages/com.lazysquirrellabs.minmaxrangeattribute/)    
+Package: [Min/max Range Attribute on OpenUPM](https://openupm.com/packages/com.lazysquirrellabs.minmaxrangeattribute)    
 Source code: [Min/max Range Attribute on GitHub](https://github.com/matheusamazonas/min_max_range_attribute)  
 </details>
