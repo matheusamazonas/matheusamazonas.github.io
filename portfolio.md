@@ -5,6 +5,7 @@ tagline: Portfolio
 ---
 
 {% include_relative portfolio/corpus.md %}
+{% include_relative portfolio/minmax.md %}
 {% include_relative portfolio/ttg.md %}
 {% include_relative portfolio/parker.md %}
 {% include_relative portfolio/airhockey.md %}
