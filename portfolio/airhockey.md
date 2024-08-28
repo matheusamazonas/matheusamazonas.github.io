@@ -12,5 +12,5 @@ Role: Game Developer, 2D Artist, Project Manager
 Team size: 1  
 Platform: [Android](https://play.google.com/store/apps/details?id=com.sneakysquirrellabs.airhockey)  
 Engine/Language: Unity/C#  
-Source code: [Air Hockey on GitHub](https://github.com/matheusamazonas/airhockey)  
+Source code: [Air Hockey on GitHub](https://github.com/lazysquirrellabs/airhockey)  
 </details>
