@@ -1,6 +1,6 @@
 {::options parse_block_html="true" /}
 <details>
-  <summary><h1 style="display:inline"># Sphere Generator (2024)</h1></summary>
+  <summary><h1 style="display:inline">Sphere Generator (2024)</h1></summary>
 
 ![](https://blog.matheusamazonas.net/assets/images/post22/sphere_display.png)
 
@@ -10,7 +10,7 @@ Sphere Generator is distributed under the terms of the MIT [license](https://git
 
 Role: Game Developer
 Team size: 1  
-Platform: Unity tool
+Platform: Unity tool  
 Engine/Language: Unity/C#  
 Package: [Sphere Generator on OpenUPM](https://openupm.com/packages/com.lazysquirrellabs.spheregenerator)  
 Source code: [Sphere Generator on GitHub](https://github.com/matheusamazonas/sphere_generator)  

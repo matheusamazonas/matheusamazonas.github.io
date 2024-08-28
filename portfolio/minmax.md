@@ -1,6 +1,6 @@
 {::options parse_block_html="true" /}
 <details>
-  <summary><h1 style="display:inline"># Min/max Range Attribute (2023)</h1></summary>
+  <summary><h1 style="display:inline">Min/max Range Attribute (2023)</h1></summary>
 
 ![](assets/images/portfolio/minmax.gif)
 
@@ -10,7 +10,7 @@ Min/max Range Attribute is distributed under the terms of the MIT [license](http
 
 Role: Game Developer
 Team size: 1  
-Platform: Unity tool
+Platform: Unity tool  
 Engine/Language: Unity/C#  
 Package: [Min/max Range Attribute on OpenUPM](https://openupm.com/packages/com.lazysquirrellabs.minmaxrangeattribute)    
 Source code: [Min/max Range Attribute on GitHub](https://github.com/matheusamazonas/min_max_range_attribute)  
