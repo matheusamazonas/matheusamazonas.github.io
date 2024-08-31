@@ -10,7 +10,7 @@ All code and art assets (except for the audio) were created by me. You can acces
 
 Role: Game Developer, 2D Artist, Project Manager  
 Team size: 1  
-Platform: [Android](https://play.google.com/store/apps/details?id=com.sneakysquirrellabs.airhockey)  
+Platform: [Android](https://play.google.com/store/apps/details?id=com.lazysquirrellabs.airhockey)  
 Engine/Language: Unity/C#  
 Source code: [Air Hockey on GitHub](https://github.com/lazysquirrellabs/airhockey)  
 </details>
