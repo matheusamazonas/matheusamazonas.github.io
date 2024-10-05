@@ -10,6 +10,7 @@ tagline: Portfolio
 {% include_relative portfolio/ttg.md %}
 {% include_relative portfolio/parker.md %}
 {% include_relative portfolio/airhockey.md %}
+{% include_relative portfolio/yarn.md %}
 {% include_relative portfolio/vc.md %}
 {% include_relative portfolio/places.md %}
 {% include_relative portfolio/bbo.md %}
