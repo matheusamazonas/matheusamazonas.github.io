@@ -4,7 +4,7 @@
 
 ![](assets/images/portfolio/ttg.png)
 
-[Terraced Terrain Generator (TTG)](http://ttg.matheusamazonas.net) is a free Unity tool for procedural generation of terraced terrain meshes like the ones in the picture above. Its first version (1.0.0) was released in April 2023 and its latest version is [2.0.1](https://github.com/lazysquirrellabs/TTG/releases/tag/2.0.1).
+[Terraced Terrain Generator (TTG)](http://ttg.matheusamazonas.net) is a free Unity tool for procedural generation of terraced terrain meshes like the ones in the picture above. Its first version (1.0.0) was released in April 2023 and its latest version is [2.0.2](https://github.com/lazysquirrellabs/TTG/releases/tag/2.0.2).
 
 TTG's development process is documented on the following blog posts:
 - [Developing a Terraced Terrain Generator](https://blog.matheusamazonas.net/posts/ttg).
