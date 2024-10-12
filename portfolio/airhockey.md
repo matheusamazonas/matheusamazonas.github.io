@@ -4,7 +4,7 @@
 
 ![facebook_abaporu.png](assets/images/portfolio/airhockey.png)
 
-Air Hockey is 2D local multiplayer game with four match modes: highest score, best of score, time limit and endless. The game is a simple toy project with two purposes: practice 2D game development and kick-start the development of complete games as personal side projects. I chose a simple game genre intentionally, to ease the development and increase the changes of it making into a complete game.
+Air Hockey is a 2D local multiplayer game with four match modes: highest score, best of score, time limit and endless. The game is a simple toy project with two purposes: practice 2D game development and kick-start the development of complete games as personal side projects. I chose a simple game genre intentionally, to ease the development and increase the changes of it making into a complete game.
 
 All code and art assets (except for the audio) were created by me. You can access the project's [Trello board](https://trello.com/b/4qmWZ7Zt/air-hockey) for the its roadmap and development history.
 
