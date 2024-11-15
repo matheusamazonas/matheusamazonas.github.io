@@ -12,6 +12,6 @@ Team size: 6~8
 Platform: SteamVR with HTC Vive  
 Engine/Language: Unity/C#  
 
-I developed most of the gameplay in this project, including SteamVR and Leap Motion integration. You can read more about this project on [the postmortem I wrote on it](https://blog.matheusamazonas.net/posts/voedingscentrum_1).
+I developed most of the gameplay in this project, including SteamVR and Leap Motion integration. You can read more about this project on [the postmortem I wrote on it](https://blog.lslabs.dev/posts/voedingscentrum_1).
 {: .text-justify}
 </details>

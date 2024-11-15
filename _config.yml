@@ -30,7 +30,7 @@ social-links:
   link: https://github.com/matheusamazonas
   alt: "Matheus' GitHub"
 - id: wordpress
-  link: http://blog.matheusamazonas.net
+  link: https://blog.lslabs.dev
   alt: "Matheus' blog"
 - id: linkedin
   link: https://www.linkedin.com/in/matheusamazonas/
@@ -53,7 +53,7 @@ navigation:
   url: /portfolio.html
   external: false
 - text: Blog
-  url: http://blog.matheusamazonas.net
+  url: https://blog.lslabs.dev
   external: true
 - text: Contact
   url: /contact.html
