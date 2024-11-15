@@ -18,9 +18,15 @@ I pursued my Master's in Computing Science ([Software Science](https://www.ru.nl
 
 ![Kronenburgerpark in Nijmegen](assets/images/about/nimma.jpg)*Kronenburgerpark in Nijmegen*
 
-After years in the Netherlands, I moved to Lyon, France. From there, I still work (remotely) at inMotion VR, developing Corpus VR. Regarding computer science, I'm interested in game development, functional languages, programming languages, computer graphics and a bit in theory of computation.
+After years in the Netherlands, I moved to Lyon, France. From there, I still work (remotely) at inMotion VR on Corpus VR, now as a Senior Game Developer. 
 
 ![The beautiful city of Lyon](assets/images/about/lyon.jpg)*The beautiful city of Lyon*
+
+In October 2024, I opened my own video game development studio: [Lazy Squirrel Labs.](https://lslabs.dev), where I offer game development and consulting services, in addition to develop and publish my own games and tools.
+
+[![A banner displaying the logo and the name of Lazy Squirrel Labs](assets/images/about/lsl.webp)](https://lslabs.dev)
+
+Regarding computer science, I'm interested in game development, functional languages, programming languages, computer graphics and a bit in theory of computation.
 
 I'm into water sports in general. I consider myself a [kitesurfer](https://www.youtube.com/watch?v=iUq0HcQ-RbU), even though practicing it in the the last years has been challenging. As an alternative, I've learnt how to windsurf when I was a masters student in Nijmegen. I've also done a scuba diving course (PADI), rowing, [kayaking](https://www.youtube.com/watch?v=FfiWOTu3Ajc) and stand up paddling. You can see I like water. Besides water sports, I enjoy nature and being outside in general, specially when the weather is good.
 
