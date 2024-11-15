@@ -10,4 +10,4 @@ Nowadays, I apply my knowledge on software development and my gamer background t
 - [inMotion VR](https://corpusvr.com), as Senior Game Developer.
 - [Lazy Squirrel Labs](https://lslabs.dev), as Game Developer and Founder.
 
-You can learn more [about me](about.html), check the projects I've worked on [portfolio](portfolio.html), read some things I've wrote on my [blog](https://blog.lslabs.dev) or take a look at my [resume/CV](assets/Matheus_Amazonas_Resume.pdf).
+You can learn more [about me](about.html), check the projects I've worked on [portfolio](portfolio.html), read some things I've written on my [blog](https://blog.lslabs.dev) or take a look at my [resume/CV](assets/Matheus_Amazonas_Resume.pdf).
