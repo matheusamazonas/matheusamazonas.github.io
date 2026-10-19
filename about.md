@@ -32,5 +32,5 @@ I'm into water sports in general. I consider myself a [kitesurfer](https://www.y
 
 ![Water sports are my thing too](assets/images/about/sports.jpg)*Water sports are my thing too*
 
-I also enjoy photography, playing the guitar and tasting [good beer](https://untappd.com/user/matheuz) with friends. I speak Portuguese natively, English fluently, and I'm currently learning French.
+I also enjoy photography, playing the guitar and tasting [good beer](https://untappd.com/user/matheuz) with friends. I speak Portuguese natively, English fluently and French (professional proficiency).
 And that's pretty much it. Feel free to contact me through [email](mailto:{{ site.author.email }}), [LinkedIn](https://www.linkedin.com/in/matheusamazonas/), [GitHub](https://github.com/matheusamazonas) or [Facebook](https://www.facebook.com/matheus.amazonas.9). À bientôt! <span style="color:#ffffff;">Shot out to my bro Edman for the about me section.</span>
