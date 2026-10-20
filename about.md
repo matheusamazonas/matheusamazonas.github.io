@@ -22,7 +22,7 @@ After years in the Netherlands, I moved to Lyon, France. From there, I still wor
 
 ![The beautiful city of Lyon](assets/images/about/lyon.jpg)*The beautiful city of Lyon*
 
-In October 2024, I opened my own video game development studio: [Lazy Squirrel Labs.](https://lslabs.dev), where I offer game development and consulting services, in addition to develop and publish my own games and tools.
+In October 2024, I opened my own video game development studio: [Lazy Squirrel Labs](https://lslabs.dev), where I offer game development and consulting services, in addition to develop and publish my own games and tools.
 
 [![A banner displaying the logo and the name of Lazy Squirrel Labs](assets/images/about/lsl.webp)](https://lslabs.dev)
 
